@@ -1,4 +1,4 @@
-**🚀 Brainwave – Modern UI/UX Website**
+# **🚀 Brainwave – Modern UI/UX Website**
 
 **Overview**
 
